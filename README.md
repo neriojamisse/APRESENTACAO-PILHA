@@ -1,3 +1,5 @@
+[link do video](https://www.loom.com/share/860700cc793745dd8ba79c9efa83a225)
+---
 # Algoritmo de Pilha
 
 Um algoritmo de pilha é um algoritmo que utiliza uma pilha para realizar uma tradução. Uma pilha é uma estrutura de dados que organiza elementos em ordem inversa à ordem de inserção, ou seja, o último elemento adicionado é o primeiro a ser removido.
